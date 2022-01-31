@@ -22,6 +22,9 @@ On windows:
 python main.py
 ```
 
+## Preview
+![Alt Text](preview.gif)
+
 
 ## To-do list:
 - Add trace lines.
