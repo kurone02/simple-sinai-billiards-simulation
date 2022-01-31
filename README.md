@@ -12,6 +12,7 @@ Secondly, install pygame
 pip install pygame
 ```
 Finally, run the *main.py*
+
 On linux:
 ```
 python3 main.py
