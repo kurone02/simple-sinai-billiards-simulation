@@ -6,6 +6,7 @@ Dynamical Billiards Problem: https://en.wikipedia.org/wiki/Dynamical_billiards
 
 ## How to use
 Firstly, install python, preferably version 3.8.
+
 Secondly, install pygame
 ```
 pip install pygame
