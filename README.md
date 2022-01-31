@@ -1,4 +1,4 @@
-# simple-sinai-billiards-simulation
+# Simple Sinai Billiards Simulation
 A simple script to simulate the Dynamical Billiards Problem using pygame
 
 Dynamical Billiards Problem: https://en.wikipedia.org/wiki/Dynamical_billiards
